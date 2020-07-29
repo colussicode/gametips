@@ -1,183 +1,187 @@
 {
     "categorias": [
       {
-        "titulo": "Front End",
+        "titulo": "Dark Souls",
         "link": "https://www.alura.com.br/formacao-front-end",
-        "cor": "#6BD1FF",
+        "cor": "#1c6577",
         "link_extra": {
-          "text": "Formação de Front End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-front-end"
+          "text": "Tips for your first experience or to complement knowledge about Dark Souls!",
+          "url": "https://pt.wikipedia.org/wiki/Dark_Souls"
         },
         "videos": [
           {
-            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+            "titulo": "Do you want to learn some tips about your favorite game?",
+            "url": "https://www.youtube.com/watch?v=n6gc5DSBEjM"
           },
           {
-            "titulo": "SEO com React",
-            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "titulo": "Game review",
+            "url": "https://www.youtube.com/watch?v=u89XfBFd4Mw"
           },
           {
-            "titulo": "Componentização com VanillaJS #AluraMais",
-            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+            "titulo": "First playthrough",
+            "url": "https://www.youtube.com/watch?v=DSxuZr46_bc"
           },
           {
-            "titulo": "Pare de chutar e aprenda a display: inline #01",
-            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+            "titulo": "How to get advantage in the beginning",
+            "url": "https://www.youtube.com/watch?v=GAPAowgX_Sg"
           },
           {
-            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+            "titulo": "Dark souls serie",
+            "url": "https://www.youtube.com/watch?v=KtNu-otRBLo&list=PLwg-bONscMbfak1plcyAp37ln9JljmjWb"
           },
           {
-            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+            "titulo": "Why is Dark Souls 2 hated?",
+            "url": "https://www.youtube.com/watch?v=-wF1FAuo5w8"
           },
           {
-            "titulo": "Novidades do Angular v9",
-            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+            "titulo": "Trying to play Dark Souls with voice commands",
+            "url": "https://www.youtube.com/watch?v=pHuk1WF4s_s"
           },
           {
-            "titulo": "Base para aprender os frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+            "titulo": "Dark Souls boss fight",
+            "url": "https://www.youtube.com/watch?v=LDGSxkxrI0w"
           }        
         ]
       },
       {
-        "titulo": "Back End",
-        "cor": "#00C86F",
+        "titulo": "Nioh",
+        "cor": "#785b77",
         "link_extra": {
-          "text": "Cursos de Back End na Alura",
+          "text": "Nioh is so difficult, do you want help?",
           "url": "https://www.alura.com.br/cursos-online-programacao"
         },
         "videos": [
           {
-            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+            "titulo": "Is Nioh good?",
+            "url": "https://www.youtube.com/watch?v=zCnTrZAZozI"
           },
           {
-            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+            "titulo": "First playthrough",
+            "url": "https://www.youtube.com/watch?v=htVTeX6jVZ8"
           },
           {
-            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+            "titulo": "Some tips for who is beginning",
+            "url": "https://www.youtube.com/watch?v=ZegBvlou8KQ"
           },
           {
-            "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+            "titulo": "Nioh detonado",
+            "url": "https://www.youtube.com/watch?v=lXWUVqQvVNY&list=PLxRFGlh_XqRneg7wvI8HnGrA6xznLgCHk"
           }, 
           {
-            "titulo": "Usando Git Direito",
-            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+            "titulo": "Mastery",
+            "url": "https://www.youtube.com/watch?v=IjOzD99m60Q"
           }
         ]
       },
       {
-        "titulo": "Data Science e Inteligência Artificial",
-        "cor": "#9cd33b",
+        "titulo": "NBA 2K20",
+        "cor": "#ff1e00",
         "link_extra": {
-          "text": "Cursos de Data Science na Alura",
+          "text": "Discover some tricks to improve your skill in the court!",
           "url": "https://www.alura.com.br/formacao-data-science"
         },
         "videos": [
           {
-            "titulo": "Teste de Turing",
-            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+            "titulo": "NBA Carreer",
+            "url": "https://www.youtube.com/watch?v=TCmSCMDAGKY"
           },
           {
-            "titulo": "O que é Data Science?",
-            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+            "titulo": "How to build a good player for your carreer",
+            "url": "https://www.youtube.com/watch?v=6j_kOH91aIg"
           },
           {
-            "titulo": "Melhor forma de aprender Python",
-            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+            "titulo": "How to improve your defense?",
+            "url": "https://www.youtube.com/watch?v=h16SPadTP2s"
           },
           {
-            "titulo": "Como ingressar no mercado de Data Science?",
-            "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+            "titulo": "Can I always throw with a green release?",
+            "url": "https://www.youtube.com/watch?v=uIZat7qNX10"
           }
         ]
       },
       {
-        "titulo": "Filmes",
-        "cor": "orange",
+        "titulo": "Bloodborne",
+        "cor": "#39406e",
+        "link_extra": {
+          "text": "No one refuse a bloodborne tip! That's game is super HARD!",
+          "url": "https://www.alura.com.br/formacao-data-science"
+        },
         "videos": [
           {
-            "titulo": "Interestellar",
-            "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+            "titulo": "Beginning",
+            "url": "https://www.youtube.com/watch?v=yj1EFI4h24U"
           },
           {
-            "titulo": "Gattaca",
-            "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+            "titulo": "Bloodborne lore",
+            "url": "https://www.youtube.com/watch?v=hGEs-EgYAbg"
           },
           {
-            "titulo": "A Chegada",
-            "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+            "titulo": "Full game walkthrough",
+            "url": "https://www.youtube.com/watch?v=VJyc-sD1DiY"
           },
           {
-            "titulo": "Feitiço do Tempo",
-            "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+            "titulo": "This game makes me mad",
+            "url": "https://www.youtube.com/watch?v=9RIKMmjrfs4"
           }
         ]
       },
       {
-        "titulo": "Games",
-        "cor": "red",
+        "titulo": "FIFA 20",
+        "cor": "#bd3c83",
         "link_extra": {
-          "text": "Formação de Jogos na Alura",
+          "text": "Relevant things to know about FIFA 20",
           "url": "https://www.alura.com.br/formacao-jogos-unity"
         },
         "videos": [
           {
-            "titulo": "Final Fantasy 7",
-            "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+            "titulo": "FIFA 20 updates",
+            "url": "https://www.youtube.com/watch?v=iXh6bg8-Nvs"
           },
           {
-            "titulo": "Assassins Creed Valhalla",
-            "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+            "titulo": "Funny moments FIFA 20",
+            "url": "https://www.youtube.com/watch?v=GiP0klOSk8M"
           },
           {
-            "titulo": "God of War 4",
-            "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+            "titulo": "FIFA vs PES",
+            "url": "https://www.youtube.com/watch?v=zCAt40sSRpM"
           },
           {
-            "titulo": "Resident Evil 8",
-            "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+            "titulo": "First match",
+            "url": "https://www.youtube.com/watch?v=nO6lHCNUM9k"
           },
           {
-            "titulo": "Pokémon Let's Go Pikachu/Eevee",
-            "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+            "titulo": "How to do some dribbles",
+            "url": "https://www.youtube.com/watch?v=TqX7sTzg5c8"
           }
         ]
       },
       {
-        "titulo": "Aprendendo a aprender tecnologia",
-        "cor": "#6b5be2",
+        "titulo": "Fortnite",
+        "cor": "#6e6d6d",
         "link_extra": {
-          "text": "Curso sobre aprendizado na Alura",
+          "text": "Building fast on fortnite",
           "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
         },
         "videos": [
           {
-            "titulo": "Como estudar melhor?",
-            "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+            "titulo": "Building fast",
+            "url": "https://www.youtube.com/watch?v=BiuSRQ6d62s"
           },
           {
-            "titulo": "Faculdade",
-            "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+            "titulo": "Building fast",
+            "url": "https://www.youtube.com/watch?v=hJ8p3XRIM7c"
           },
           {
-            "titulo": "Frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+            "titulo": "Building fast",
+            "url": "https://www.youtube.com/watch?v=zzRt87pptUo"
           },
           {
-            "titulo": "A mágica do Aprendizado",
-            "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+            "titulo": "Building fast",
+            "url": "https://www.youtube.com/watch?v=QV6mQ5ZEQ_Q"
           },
           {
-            "titulo": "Como aprender a programar?",
-            "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+            "titulo": "Building fast",
+            "url": "https://www.youtube.com/watch?v=HicxnqGqrdg"
           }
         ]
       }
